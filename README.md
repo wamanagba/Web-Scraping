@@ -1,2 +1,2 @@
 ##### Web-Scraping
-Dans cet projet nous voulons extraire les films les mieux note sur plusieurs pages web
+In this project we want to extract the best rated movies from several web pages
